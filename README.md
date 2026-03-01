@@ -18,9 +18,9 @@ Instead of relying on built‑in libraries, this implementation attempts to conv
 
 ---
 
-## 🖼️ Preview
+## 🖼️ Concept
 
-![IEEE 754 Representation](./assets/preview.jpg)
+![IEEE 754 Representation](./assets/concept.jpg)
 
 ---
 
